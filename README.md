@@ -4,4 +4,4 @@
 
 This project uses Gulp to help construct itself. Sass and BrowserSync also help automate testing and streamline development.
 
-(mostly this project is just to help me stay in practice.)
+(Mostly? This project is just to help me stay in practice.)
