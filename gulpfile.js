@@ -9,6 +9,7 @@ var cssnano = require('gulp-cssnano');
 var imagemin = require('gulp-imagemin');
 var browserSync = require('browser-sync');
 var runSequence = require('run-sequence');
+var deploy      = require('gulp-gh-pages');
 
 gulp.task('hello', function() {
   console.log('Hello Rachel');
@@ -75,10 +76,18 @@ gulp.task('build', function (callback) {
     ['sass', 'useref', 'images', 'fonts'],
     callback
   )
-})
+});
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
+});
 
 gulp.task('default', function (callback) {
   runSequence(['sass','browserSync', 'watch'],
     callback
   )
-})
+});
