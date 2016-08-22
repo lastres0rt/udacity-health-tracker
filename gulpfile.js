@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-// Requires the gulp-sass plugin
+var del = require('del');
 var sass = require('gulp-sass');
 var gulpIf = require('gulp-if');
 var cache = require('gulp-cache');
@@ -81,7 +81,7 @@ gulp.task('build', function (callback) {
 /**
  * Push build to gh-pages
  */
-gulp.task('deploy', function () {
+gulp.task('deploy', ['build'], function () {
   return gulp.src("./dist/**/*")
     .pipe(deploy())
 });
