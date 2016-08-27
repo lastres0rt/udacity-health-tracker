@@ -1,5 +1,7 @@
 # Udacity Health Tracker
-## A Bonus Project from Udacity's Front-End Web Developer Nanodegre
+
+## A Bonus Project from Udacity's Front-End Web Developer Nanodegree
+
 ### Learning Backbone.js in the process!
 
 This project uses Gulp to help construct itself. Sass and BrowserSync also help automate testing and streamline development.
