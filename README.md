@@ -12,3 +12,7 @@ This project uses Gulp to help construct itself. Sass and BrowserSync also help 
 ## How to Use
 
 1. Once it's actually working? Click ➡️ http://lastres0rt.github.io/udacity-health-tracker/
+
+## Recent Updates
+
+### Updated February 17, 2017
