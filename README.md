@@ -6,7 +6,7 @@ A Bonus Project from Udacity's Front-End Web Developer Nanodegree 🎓
 
 Learning Backbone.js in the process! 🍖 🤗
 
-This project uses Gulp to help construct itself. 🥃 Sass and BrowserSync also help automate testing and streamline development by making it super-easy to test changes on the fly. 
+This project uses Gulp to help construct itself. 🥃 Sass and BrowserSync also help automate testing and streamline development by making it super-easy to test changes on the fly. ✈
 
 I'm doing it with this project when I didn't before, because learning new technologies is half the fun (and it also makes the process faster and easier)! 🖥
 
