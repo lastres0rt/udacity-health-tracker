@@ -10,7 +10,7 @@ This project uses Gulp to help construct itself. 🥃 Sass and BrowserSync also 
 
 I'm doing it with this project when I didn't before, because learning new technologies is half the fun (and it also makes the process faster and easier)! 🖥 👍
 
-(Mostly? This project is just to help me stay in practice and show I'm still playing with new technologies even after earning my nanodegree. Practice is very important.) 👩🏽‍🏫
+(Mostly? This project is just to help me stay in practice and show I'm still playing with new technologies even after earning my nanodegree. Practice is so very important.) 👩🏽‍🏫
 ## How to Use
 
 1. Once it's actually working? Click here! 🔜 http://lastres0rt.github.io/udacity-health-tracker/
