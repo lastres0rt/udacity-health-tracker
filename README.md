@@ -13,7 +13,7 @@ I'm doing it with this project when I didn't before, because learning new techno
 (Mostly? This project is just to help me stay in practice and show I'm still playing with new technologies even after earning my nanodegree. Practice is so very important.) 👩🏽‍🏫
 ## How to Use
 
-1. Once it's actually working? Click here! 🔜 http://lastres0rt.github.io/udacity-health-tracker/
+Once it's actually working? Click here! 🔜 http://lastres0rt.github.io/udacity-health-tracker/
 
 ## Recent Updates
 
